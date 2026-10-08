@@ -44,3 +44,18 @@ barber_bot/
     ├── menu.py
     ├── start.py
     └── states.py
+## 📸 Скриншоты
+
+### Главное меню
+
+![Главное меню](assets/screenshots/main-menu.png)
+
+
+### Услуги
+
+![Услуги](assets/screenshots/admin.png)
+
+### Процесс записи
+
+![Процесс записи](assets/screenshots/booking.png)
+
